@@ -1,6 +1,11 @@
 # Electroffers
 Website to sell energy efficient appliances.
 
+Created by:
+Ankit Kumar
+Kumar Shubham
+Saurav Maurya
+
                          : : : : : LOGIN DETAILS : : : : : 
 
 ADMIN PANEL LOGIN:
